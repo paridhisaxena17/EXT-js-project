@@ -1,3 +1,10 @@
+#commands
+to check the version :sencha -version
+to build the application:sencha app build
+to start the application : sencha app watch
+
+
+
 # MyApp2
 
 This folder is primarily a container for the top-level pieces of the application.
